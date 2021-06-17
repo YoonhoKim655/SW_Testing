@@ -1,0 +1,9 @@
+Title: Web Application Testing Booktitletitle
+
+Description: Short introduction to testing Web Applications.descriptiondescription
+
+Type: Books
+
+Price: €29.99
+
+버그는 category에 select ~~값을 넣어도 가능
