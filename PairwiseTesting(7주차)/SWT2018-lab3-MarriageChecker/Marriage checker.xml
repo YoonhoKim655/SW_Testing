@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<System name="Marriage checker">
+  <Parameters>
+    <Parameter id="0" name="First_fisrt_name" type="1">
+      <values>
+        <value>Brad</value>
+        <value>Keanu</value>
+        <value>Audrey</value>
+        <value>Angelina</value>
+      </values>
+      <basechoices />
+      <invalidValues />
+    </Parameter>
+    <Parameter id="1" name="First_last_name" type="1">
+      <values>
+        <value>Pitt</value>
+        <value>Reeves</value>
+        <value>Hepburn</value>
+        <value>Jolie</value>
+      </values>
+      <basechoices />
+      <invalidValues />
+    </Parameter>
+    <Parameter id="2" name="Second_first_name" type="1">
+      <values>
+        <value>Tyler</value>
+        <value>John</value>
+        <value>Holly</value>
+        <value>Lara</value>
+      </values>
+      <basechoices />
+      <invalidValues />
+    </Parameter>
+    <Parameter id="3" name="Second_last_name" type="1">
+      <values>
+        <value>Durden</value>
+        <value>Wick</value>
+        <value>Golightly</value>
+        <value>Croft</value>
+      </values>
+      <basechoices />
+      <invalidValues />
+    </Parameter>
+  </Parameters>
+  <OutputParameters />
+  <Relations />
+  <Constraints />
+</System>
+
